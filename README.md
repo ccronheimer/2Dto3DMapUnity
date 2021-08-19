@@ -1,6 +1,6 @@
 ### 2D to 3D Map Unity 
 
-Script used for my Coloring ASMR app to read 2d images and create a 3d map. The script uses **Object pooling** and **GPU instantiating** to improve performance on mobile when there are thousands of cubes representing each pixel of the image we are reading.
+Script used for my Coloring ASMR app to read 2d images and create a 3d map. The script uses **object pooling** and **GPU instantiating** to improve performance on mobile when there are thousands of cubes representing each pixel of the image we are reading.
 
 ### Code
 
